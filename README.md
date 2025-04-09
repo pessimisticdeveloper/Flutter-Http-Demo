@@ -1,16 +1,4 @@
-# http_demo
+Bu uygulama projesi, Flutter geliştirme çerçevesinde HTTP protokolü üzerinden veri alışverişi konusundaki yetkinliği artırmak amacıyla hayata geçirilmiştir. Projenin geliştirilmesinde JSON veri biçimi ve REST API (Temsili Durum Transferi Uygulama Programlama Arayüzü) mimarisi temel alınmıştır.
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This application project has been developed within the Flutter development framework to reinforce proficiency in handling HTTP requests. The development process utilized the JSON data format and the REST API (Representational State Transfer Application Programming Interface) architecture.
